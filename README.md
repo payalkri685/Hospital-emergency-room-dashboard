@@ -1,31 +1,5 @@
 # Hospital-emergency-room-dashboard
 Dashboard to find out meaningful insights on Hospital Emergency Room data
-Project Steps:
-Business Requirement Gathering
-Understand the objective of the project, key goals, and what insights are needed.
-Understanding of Data
-Explore the dataset to know the structure, columns, data types, and overall quality.
-Data Connection (Import using Power Query)
-Import the dataset into Excel using Power Query for better data handling.
-Data Cleaning & Quality Check (Power Query)
-Remove duplicates
-Handle missing values
-Correct data types
-Ensure consistency
-Creating Calendar Table (Power Query)
-Build a date table to enable time-based analysis (daily, monthly trends).
-Data Modeling (Power Pivot)
-Create relationships between tables (fact & dimension tables).
-Adding Required Columns (DAX Calculations)
-Create calculated columns and measures using DAX for analysis.
-Creating Pivots & Dashboard Layout
-Design pivot tables and structure the dashboard layout.
-Charts Development & Formatting
-Create charts (line, bar, area) and format them for clarity and presentation.
-Dashboard / Report Development
-Combine all visuals into a clean, interactive dashboard.
-Insights Generation
-Analyze the dashboard and extract meaningful business insights.
 
 KPI Requirements:
 1. Number of Patients
