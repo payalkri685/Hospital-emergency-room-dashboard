@@ -15,4 +15,4 @@ Calculate average daily satisfaction score
 Show trend using sparkline
 Identify drops in satisfaction and link them to delays or workload
 
-<img width="1510" height="643" alt="dashboard" src="https://github.com/user-attachments/assets/d2588506-a879-49c6-a62a-f5c3361c7c32" />
+<img width="1508" height="637" alt="Screenshot 2026-04-30 203818" src="https://github.com/user-attachments/assets/09897d25-782d-4580-9876-4ffb65f82488" />
